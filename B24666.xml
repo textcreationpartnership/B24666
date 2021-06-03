@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Commissioners for the settling and securing the province of Vlster.</title>
+            <author>Ireland. Commissioners for the Settling and Securing the province of Ulster.</author>
+         </titleStmt>
+         <extent>Approx. 17KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24666</idno><idno type="EEBO-CITATION">99886008</idno>
+  <idno type="VID">188612</idno>
+  <idno type="EEBO-PROQUEST">2240882432</idno>
+  
+            <idno type="STC">Wing I341</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.17[74]</idno>
+            <idno type="STC">ESTC R225282</idno>
+            <idno type="PROQUEST">ocm99886008</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886008e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24666)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188612)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:2[69])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Commissioners for the settling and securing the province of Vlster.</title>
+                  <author>Ireland. Commissioners for the Settling and Securing the province of Ulster.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed by William Bladen,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>anno Dom. 1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Text begins: Whereas the right honorable the Commissioners of the common-wealth of England, ... .</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Land settlement --  Law and legislation --  Ireland --  Early works to 1800.</term>
+               <term type="topical_term">Allotment of land --  Ireland --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="expulsion_order">
+            <pb facs="tcp:188612:1"/>
+            <head>❧ By the Commissioners for the Settling and Securing the Province of <hi>VLSTER.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the Right Honorable the Commissioners of the Common-wealth of <hi>England,</hi> have Commissioned us for the Settling and Securing of these Parts from those Dis<g ref="char:EOLhyphen"/>turbances which the <hi>Councel of State</hi> did intimate unto them were like to arise here, through the Designs of the Neighbouring <hi>High-landers</hi> in <hi>Scotland:</hi> And whereas many persons here have (to our grief) too much confirmed those fears: In discharge of that trust reposed in us, that the good People here, of the <hi>English</hi> and <hi>Scottish</hi> Nation, who have manifested their good Affection towards the present Government, might receive all due Protection and Encouragement.</p>
+            <p>We have thought fit, as the most probable expedient, for the Peace and Settlement of this Province, to Transplant a certain number of such Persons as we judge (by reason of their Interest and disaffections to be therein most dangerous, into the Provinces of <hi>Leinster</hi> and <hi>Munster:</hi> And that we might shew our tenderness towards them, (notwithstanding their present temper) And that we have no other end in this Action (next to preservation of the Peace in these parts) than their good and welfare; We do hereby Declare, That the ensuing Conditions, or Articles, shall (God willing) be made good to the respective Persons who shall be so Transplanted: <hi>viz.</hi>
+            </p>
+            <p>First, Valuable consideration in Land, computed as the same was worth in the Year 1640. shall be allowed for the Land, Leases and Houses of such as shall be so Transplanted, (valued as aforesaid) according to their respective Interests, and the Qualifications under which they do fall in the Printed Act for Settlement, of <hi>August</hi> 1652. entituled, <hi>An Act for the settling of Ire<g ref="char:EOLhyphen"/>land:</hi> And to that end Persons of judgement and known integritie, shall be with all convenient speed appointed Surveyors, upon oath, of the value of the said Land, Leases and Houses, of such as shall be removed as aforesaid, according unto such answerable satisfaction shall be given as aforesaid. And whilst the said Surveys are making, the said Persons now removing shall be possessed of such Land by an Estimate according to the rule and proportion aforesaid. And the places whereunto they shall be Transplanted, shall be the parts of the Counties <hi>Kilkennie, Typerarie</hi> and <hi>Waterford,</hi> the Baronie of the <hi>Decies</hi> in the Countie of <hi>Waterford,</hi> bordering upon the Sea: And such other parts of that Countie near the Citie of <hi>Waterford,</hi> where they may with securitie In<g ref="char:EOLhyphen"/>habit in such places as the Commissioners of the Revenue, or other Persons Authorized within those Precints shall appoint.</p>
+            <p>Secondly, The said Persons shall hold such Lands (if the Lands into which they be Transplanted be now waste) and shall pay no Contribution thereout, till <hi>November</hi> come twelve month: after which time they are to pay proportionable Taxes with the rest of their neighbours.</p>
+            <p>Thirdly, The said persons shall be allowed what wood is necessarie either for the building of new, or repairing of old Houses on the said Lands: and the same shall be appointed out of the Common-wealths woods.</p>
+            <p>Fourthly, The said Persons shall and may enjoy by their Agents, the profits of their Lands they now possess, till <hi>November</hi> next ensuing the date hereof. And notwithstanding that it is the custom of the Countrey, that all Removers pay a Years Contribution after removal, in the places from whence they remove, yet for the further encouragement of the Persons so removing, It is condescended, that they shall pay the Contribution charged on the Lands they now possess in <hi>Vlster</hi> onely, during the time of their holding the said Lands by their said Agents; and not after the first of <hi>November</hi> next.</p>
+            <p>Fifthly, The State shall (if the said Persons desire it) take of all their corn now upon the ground, being made into Meal, and delivered into the Publick Stores at a Market price, and shall pay the Money so due to them for it, at what place they shall desire in <hi>Ireland.</hi>
+            </p>
+            <p>Sixtly, Convoys shall be allowed for the Persons and goods of such as shall be so removed.</p>
+            <p>Seventhly, The said Persons shall and may enjoy the freedom of their Religion, and choose their own Ministers: Provided they shall be such as shall be peaceable-minded men towards the Authoritie they live under, and not scandalous: And such Ministers shall <gap reason="illegible" resp="#keyers" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> a competencie for their subsistance, sutable with others in their condition.</p>
+            <p>Eighthly, Such of the said Persons who have no title to Land, shall have Leases of so much as they can Stock at a valuable Rent, and Contribution free (if it be waste when they enter upon it) till <hi>November</hi> next come twelve month.</p>
+            <p>And we do further Declare, That all those who have signified their willingness to remove on the Conditions tendered, As also any of the rest that yet shall by the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> of <hi>June</hi> next, signifie their willingness to the Commissioners of the Revenue of the Precinct of <hi>Belfast,</hi> and give in sufficient securitie to remove as aforesaid, shall have these Conditions fully made good to them, in as ample manner as they are here tendered: And for any others of these Numbers, who shall not by the Day aforesaid so declare their Intentions, and give securitie for performance as aforesaid, We shall (in order to the Publick safetie) enforce them to remove into such places, with abatement in the Conditions, where they may not be capable of doing that mischief which they give us much cause to believe they onely want power and opportunitie to practice in the places where they now are. And because such Persons may not pretend ignorance of what is here<g ref="char:EOLhyphen"/>in declared, We have incerted their Names at the bottom of this Declaration, with the Names of such other Persons as we find necessarie to be removed for the ends aforesaid: Further requiring the Commissioners of Applotment in each respective Quarter, to make known to all and every of the said Persons under named, what is herein Declared, who are to render an Account to the said Commissioners of the Revenue, of their proceedings therein, by the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> with the Names of such as are or shall not be willing to accept of the said Proposals, to the end that such further proceedings may be made therein, as shall be sutable to the purposes aforesaid. Which we do hereby Authorize and require all Officers and Persons concerned herein to execute.</p>
+            <closer>
+               <dateline>Dated at <hi>Carickfergus</hi>
+                  <date>the 23 of <hi>May,</hi> 1653.</date>
+               </dateline>
+               <signed>Robert Venables, Arthur Hill. William Allen. Henry Iones. Anthonie Morgan.</signed>
+            </closer>
+         </div>
+         <div type="list_of_the_expelled">
+            <head>¶ A List of the Names of such as are to Remove according to the foregoing Declaration.</head>
+            <list>
+               <head>Belfast and Mallone Quarters.</head>
+               <item>LIeutenant Thomas Corston</item>
+               <item>Corp. Thomas mac Cormaok</item>
+               <item>Hugh Doke</item>
+               <item>Robert Cluxton</item>
+               <item>George Martin</item>
+               <item>Alexander Lockard</item>
+               <item>Robert King</item>
+               <item>Quinten Caterwood</item>
+            </list>
+            <list>
+               <head>West Quarters of Carrick<g ref="char:EOLhyphen"/>fergus.</head>
+               <item>John Murry</item>
+               <item>John Russell</item>
+               <item>Iohn Read</item>
+               <item>Iohn Young</item>
+               <item>Iohn Donnelson</item>
+               <item>Iohn Hanna</item>
+               <item>Iames Read</item>
+               <item>Iames Patterson</item>
+               <item>William Kiggard</item>
+               <item>George Russell</item>
+               <item>Iohn Homes</item>
+               <item>George Gibson</item>
+               <item>Robert Tikye</item>
+               <item>Iohn Clark senior</item>
+               <item>Patrick Martin</item>
+               <item>Nicholas Campbell</item>
+               <item>Andrew Read sen.</item>
+               <item>Andrew Read jun.</item>
+               <item>Quartermaster Archy Crafford</item>
+            </list>
+            <list>
+               <head>Broad Island &amp; East Quarters of Carrickfergus.</head>
+               <item>Gilbert Acklis</item>
+               <item>John Dowglessen</item>
+               <item>Capt. Edmonston</item>
+               <item>David mac Clee</item>
+               <item>David Harper</item>
+               <item>John mac Kerger</item>
+               <item>Walter Hutchison</item>
+               <item>Thomas mac Colpin</item>
+               <item>Matthew Logan</item>
+            </list>
+            <list>
+               <head>Island Magee Magherimorne and Ballineure Quarters.</head>
+               <item>Capt. Robert Kinkead</item>
+               <item>Hugh Hoomes</item>
+               <item>James Lawder</item>
+               <item>Capt. James mac Cullogh</item>
+               <item>John Blare</item>
+               <item>William Gnew</item>
+               <item>John Gnew</item>
+            </list>
+            <list>
+               <head>Six-Mile water Quarters.</head>
+               <item>Capt. George Welch</item>
+               <item>Mr. William Shaw</item>
+               <item>Capt Ferguson</item>
+               <item>Lt. Hewston</item>
+               <item>Lt. Robert Fergison</item>
+               <item>Alex Pringle</item>
+               <item>Andrew Taggart</item>
+               <item>Quintin Kennedy</item>
+               <item>James Cutberd</item>
+               <item>John Wilson</item>
+               <item>Teige O Munts</item>
+               <item>William Crafford</item>
+               <item>William Sloane</item>
+               <item>Mr Arthur Upton</item>
+               <item>John Crafford</item>
+               <item>Mr. Francis Shaw</item>
+               <item>Gilbert mac Nellie</item>
+               <item>Lt. Samuel Wallis</item>
+               <item>George Yonge</item>
+               <item>John Wilson</item>
+            </list>
+            <list>
+               <head>Antrim Quarters.</head>
+               <item>Capt Henry Sibballs</item>
+               <item>Capt. John Williams</item>
+               <item>Capt John Fisher</item>
+               <item>Capt. John mac Bride</item>
+               <item>Quartermaster Michell</item>
+               <item>Major Clotworthy</item>
+               <item>David Mitchell</item>
+               <item>Ensigne John Cormicke</item>
+               <item>John Wagh Merchant</item>
+               <item>Robert Shannon</item>
+               <item>John Whyte</item>
+               <item>Quartermaster Fergison</item>
+               <item>Capt James Calmill</item>
+               <item>Lt. James Linsey</item>
+               <item>Lt. James mac Adams</item>
+            </list>
+            <list>
+               <head>Shanes Castle Largee and Toome Quarters.</head>
+               <item>Lt. Col. Walter Stewart</item>
+               <item>Lt. Andrew Adare</item>
+               <item>Henry Verner</item>
+               <item>William mac Cullagh</item>
+               <item>Cornet John Shaw</item>
+               <item>Lt. James Dobbin</item>
+               <item>Ensign John Bryen</item>
+               <item>Thomas Collocke</item>
+               <item>Matthew Hamble Lord of Rockwood</item>
+               <item>Capt. Robert Huston</item>
+               <item>Capt. Jackson</item>
+               <item>Lt. mac Nally</item>
+               <item>Lt. Robert Carre</item>
+               <item>Lt. Iames Pont</item>
+               <item>Lt. Hamill</item>
+               <item>Lt. Grimsills</item>
+               <item>Ensign Dobbin</item>
+               <item>Lt. Alexander Cunningham</item>
+               <item>Ensign Robert Cunningham</item>
+               <item>Lt. Martin</item>
+               <item>Robert Porter</item>
+               <item>William Collock</item>
+            </list>
+            <list>
+               <head>Braid Kevit and Clonoghorty Quarters.</head>
+               <item>Thomas Adaire</item>
+               <item>Corp Iames mac Cullogh</item>
+               <item>William Hamilton</item>
+               <item>Iohn Sprat</item>
+               <item>Lt. Paul Cunningham</item>
+               <item>Cap. William Hewston</item>
+               <item>Sr. Robert Adair</item>
+               <item>Capt Thomas Farborn</item>
+               <item>Capt. David Iohnston</item>
+               <item>Lt. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Achumtie</item>
+               <item>Lt. William Iohnston</item>
+               <item>Major Alexander Adaire</item>
+               <item>Cornet Iames Brown</item>
+               <item>Cornet Iohn Stewart</item>
+               <item>Adam Iohnston</item>
+               <item>Iames Ewart</item>
+               <item>Kingham Dunbarre</item>
+               <item>Halbert Gledston</item>
+            </list>
+            <list>
+               <head>Killilegh and Kilmakenet Quarters.</head>
+               <item>David Kenedy</item>
+               <item>Lt. Hugh Campbell</item>
+               <item>Capt. Henry Lancford</item>
+               <item>William Norris</item>
+               <item>William Cunningham</item>
+               <item>George Campbell</item>
+               <item>John Gordon of Borsheagh</item>
+               <item>Lt. Erwin</item>
+               <item>Lt Anthonie Ellis</item>
+               <item>Lt. mac Ilroye</item>
+            </list>
+            <list>
+               <head>Glenarme Barronie</head>
+               <item>Mr. Iames Shaw</item>
+               <item>Capt. Iohn Shaw</item>
+               <item>Mr. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Donnelson</item>
+               <item>Iohn Berry</item>
+               <item>Patrick Agnue</item>
+               <item>Io. Shaw</item>
+               <item>Iames Crummy</item>
+               <item>Francis Agnue</item>
+               <item>William Grige</item>
+               <item>Randle Buthell</item>
+               <item>Iames Donnelson</item>
+               <item>Cap Lt. Iames Humes</item>
+               <item>James Fenton.</item>
+            </list>
+            <list>
+               <head>Roote Quarters.</head>
+               <item>Major Iohn Stewart</item>
+               <item>Lt. Col. Robert Kennady</item>
+               <item>Capt. Iames Stewart.</item>
+               <item>Capt. Alexander Stewart</item>
+               <item>Fergus mac Doegall</item>
+               <item>Iohn mac Dogle</item>
+               <item>Iohn Boyle</item>
+               <item>Iohn Getty</item>
+               <item>Alexander Stewart sen.</item>
+               <item>Iames Maxwell</item>
+               <item>Capt. Marmaduke Shawe</item>
+               <item>Iohn Hencry</item>
+               <item>Cornet Robert Knox</item>
+               <item>Mr William Hutchin</item>
+               <item>Robert Hencry</item>
+               <item>Alexander Scot</item>
+               <item>Lt. Iames Moneefe</item>
+               <item>Robert Harrute</item>
+               <item>Andrew Rowan</item>
+               <item>Thomas Boyde</item>
+               <item>Samuel Dunbarre</item>
+               <item>Alexander Delap</item>
+               <item>Adam Delap</item>
+               <item>Anthony Kenedy</item>
+               <item>Major Hugh Montgomery</item>
+               <item>Cornet Iohn Gorden</item>
+               <item>Capt. Iohn Huston</item>
+               <item>Lt. Col. Cunningham</item>
+               <item>Iohn Bell</item>
+               <item>Mr Adam Boyde</item>
+               <item>Iohn Reade</item>
+               <item>Lt. Arch Campbell</item>
+               <item>Mr. Iohn Peeples</item>
+               <item>Mr. Carcart</item>
+               <item>Capt. Arch. Boyde</item>
+               <item>Capt. Iohn Robinson</item>
+               <item>Lt. Thomas Stewart</item>
+               <item>Quartermast. Rob. Stewart</item>
+            </list>
+            <list>
+               <head>Colerane Quarters.</head>
+               <item>Iohn Iohnston</item>
+               <item>Thomas Abbornatly</item>
+               <item>Edward mac Lellan</item>
+               <item>Iames Iohnston</item>
+               <item>Gilbert Collomac Phillip</item>
+               <item>David Wilson</item>
+               <item>Robert Hulton</item>
+               <item>Major Robert Blare</item>
+               <item>Ensign And. mac Adam</item>
+               <item>Ensign <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bert Milles</item>
+               <item>Ensign Alexander mac Can</item>
+               <item>Ensign Donnell mac Phesson</item>
+            </list>
+            <list>
+               <head>Castle Reagh, Kilwarlin, and Lysnegarny Quarters</head>
+               <item>Corporal Gilbert Matthews</item>
+               <item>Iohn Strean</item>
+               <item>Iohn Cowtard</item>
+               <item>Robert Graham</item>
+               <item>Iames Graham</item>
+               <item>Iohn Cowan</item>
+               <item>Thomas Rea</item>
+               <item>Capt. Iames Mauson</item>
+            </list>
+            <list>
+               <head>Lord of Ards Quarters.</head>
+               <item>The Lord Ards</item>
+               <item>Capt. Charles Campbell</item>
+               <item>Capt. William Bukchannon</item>
+               <item>Lt. Hugh Dundas</item>
+               <item>Capt. Iohn Kecth</item>
+               <item>Iohn Montgomery of Movill</item>
+               <item>Lt Iames Nowell</item>
+               <item>Iames mac Congw</item>
+               <item>William Catterwood</item>
+               <item>William Shaw</item>
+               <item>Fergus Kennedy</item>
+               <item>Capt. Hugh Montgomery</item>
+               <item>Mr. Hugh Montgomery</item>
+               <item>Lt. Iohn Wilson</item>
+               <item>Lt. Andrew Cunningham</item>
+               <item>Lt. mac Dowell of Cumber</item>
+            </list>
+            <list>
+               <head>Little Ards, Grey Abbie, and Lysburnogh Quarters.</head>
+               <item>Gilbert Harran</item>
+               <item>Robert Maxwell</item>
+               <item>Robert Ross</item>
+               <item>Iohn Parke</item>
+               <item>Lt. Iohn Munipenny</item>
+            </list>
+            <list>
+               <head>Lord Clanaboys Quarters.</head>
+               <item>The Lord Clanaboys</item>
+               <item>Lt. Gawen Hamilton</item>
+               <item>Capt. Iohn Boyle</item>
+               <item>Lt Hugh Wallas</item>
+               <item>Iames Ross sen.</item>
+               <item>William Hamilton</item>
+               <item>Mr. George Ross</item>
+               <item>John Hamelton of Bally mac gormak</item>
+               <item>Patrick Allen</item>
+               <item>Gawen Hamelton</item>
+               <item>Capt Alexander Stewart</item>
+               <item>William Hamelton jun.</item>
+               <item>Iohn Stevenson</item>
+               <item>Ninion Tate</item>
+               <item>Lt. Edward Bayly</item>
+               <item>Francis Purdy</item>
+               <item>Capt. Iames Stevenson</item>
+               <item>Iohn Bartly</item>
+               <item>Quar Mr. Edward Magee</item>
+               <item>Ensign Iames Cooper</item>
+               <item>Lt. Robert Cunningham</item>
+               <item>Lt Carre</item>
+               <item>Capt. Matthew Hamilton</item>
+               <item>Capt. Collen Maxwell</item>
+               <item>David Williamson</item>
+               <item>Iames Ross jun.</item>
+            </list>
+            <list>
+               <head>Lecale Quarters.</head>
+               <item>Lt. Hugh Montgomery</item>
+               <item>Lt. Lancelot Greece</item>
+               <item>Lt. Thomas Lynsey</item>
+               <item>Lt. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Woodney</item>
+               <item>Lt Iohn Renalds</item>
+               <item>Capt. Iohn Wooll</item>
+               <item>Iames Stewart</item>
+               <item>Iohn Dunbarre</item>
+               <item>Iohn Tenant</item>
+               <item>Iames Porter</item>
+               <item>Stephen Masor</item>
+               <item>Iohn mac Dowell</item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ <hi>Dublin,</hi> Printed by <hi>William Bladen</hi> Anno Dom. 1653.</p>
+            <pb facs="tcp:188612:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
